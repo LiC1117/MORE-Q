@@ -13,7 +13,6 @@ In this repository, one could find one jupyter-notebook file __MORE-Q_user_guide
 
 __MORE-Q-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __createDF.py__ and reproduction of the technical validation figures. 
 
-
 ## MORE-Q source files
 One can download MORE-Q HDF5 files from ZENODO under: 10.5281/zenodo.13741197
 
