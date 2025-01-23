@@ -19,7 +19,7 @@ One can download MORE-Q HDF5 files from ZENODO under: 10.5281/zenodo.13741197
 ## Citation
 If you use parts of the MORE-Q data please cite
 
-For more details, one can refer to the manuscript, doi: 
+For more details, one can refer to the manuscript doi: 10.26434/chemrxiv-2024-zvt26
 
 ## Dependencies
 - [ ] numpy 1.26.0
