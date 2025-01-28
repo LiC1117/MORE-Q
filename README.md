@@ -27,3 +27,8 @@ For more details, one can refer to the manuscript doi: 10.26434/chemrxiv-2024-zv
 - [ ] joblib 1.4.2
 - [ ] matplotlib 3.6.2
 - [ ] tqdm 4.66.2
+
+## Contributors
+Li Chen, TUD Dresden University of Technology, Dresden, Germany
+Leonardo Medrano Sandonas, TUD Dresden University of Technology, Dresden, Germany
+Gianaurelio Cuniberti, TUD Dresden University of Technology, Dresden, Germany
