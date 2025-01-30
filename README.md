@@ -22,7 +22,7 @@ __MORE-Q-user-guide__ contains step-by-step codes for data extraction from HDF5 
 
 
 ## MORE-Q source files
-One can download MORE-Q HDF5 files from ZENODO under: 10.5281/zenodo.13741197
+One can download MORE-Q HDF5 files from ZENODO under the link: https://zenodo.org/records/13741197
 
 ## Citation
 If you use parts of the MORE-Q data please cite
