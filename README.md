@@ -27,7 +27,9 @@ One can download MORE-Q HDF5 files from ZENODO under the link: https://zenodo.or
 ## Citation
 If you use parts of the MORE-Q data please cite
 ```
-Chen, L., Medrano Sandonas, L., Traber, P. et al. MORE-Q, a dataset for molecular olfactorial receptor engineering by quantum mechanics. Sci Data 12, 324 (2025). https://doi.org/10.1038/s41597-025-04616-6
+Chen, L., Medrano Sandonas, L., Traber, P. et al. MORE-Q, a dataset for molecular olfactorial receptor engineering by quantum mechanics.
+Sci Data 12, 324 (2025).
+https://doi.org/10.1038/s41597-025-04616-6
 ```
 
 For more details, one can refer to the manuscript doi: https://doi.org/10.1038/s41597-025-04616-6
