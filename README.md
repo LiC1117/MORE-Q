@@ -1,3 +1,4 @@
+[![paper-link](https://img.shields.io/badge/paper-chemRxiv.org-A9A8AD)](https://www.nature.com/articles/s41597-025-04616-6)
 [![preprint-link](https://img.shields.io/badge/paper-chemRxiv.org-A9A8AD)](https://chemrxiv.org/engage/chemrxiv/article-details/66e08e0151558a15ef9d26f6)
 [![cite-link](https://img.shields.io/badge/how_to-cite-000000)](https://github.com/LiC1117/MORE-Q/blob/main/README.md#Citation)
 
