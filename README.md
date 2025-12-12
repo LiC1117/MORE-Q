@@ -20,6 +20,11 @@ __MORE-Q-user-guide__ contains step-by-step codes for data extraction from HDF5 
 ## MORE-Q dataset files
 One can download MORE-Q HDF5 files from ZENODO under the link: https://zenodo.org/records/13741197
 
+## MORE-QX dataset files
+To approximate the thermodynamic ensemble and the conformer effects, we expanded the MORE-Q dataset into MORE-QX by sampling multiple low-energy BOV–receptor dimer (DM) conformers adsorbed on graphene. This process increased the number of BOV–receptor–graphene complexes from 1,836 to 10,441, leading to exMORE-G-Q1, exMORE-G-Q2, and exMORE-G-Q3 subsets. 
+
+The only difference in the HDF5 structure between the MORE-Q and MORE-QX subsets is that we added 'DM' keys after the 'REC' and 'OM' keys as indicators for the low-energy conformers taken from the dimer subset exMORE-G-Q2. 
+
 ## Citation
 If you use parts of the MORE-Q data please cite
 ```
