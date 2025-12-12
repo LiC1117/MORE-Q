@@ -6,11 +6,6 @@
 
 ![Logo](./FIG_1.png)
 
-## Contributors
-
-- [ ] Li Chen, TUD Dresden University of Technology, Dresden, Germany
-- [ ] Leonardo Medrano Sandonas, TUD Dresden University of Technology, Dresden, Germany
-- [ ] Gianaurelio Cuniberti, TUD Dresden University of Technology, Dresden, Germany
 
 ## About
 
