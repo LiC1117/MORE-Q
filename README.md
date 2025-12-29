@@ -13,6 +13,8 @@
 ### Motivation for MORE-QX
 To approximate the thermodynamic ensemble and the conformer effects, we expanded the MORE-Q dataset into MORE-QX by sampling multiple low-energy BOV–receptor dimer (DM) conformers adsorbed on graphene. This process increased the number of BOV–receptor–graphene complexes from 1,836 to 10,441, leading to exMORE-G-Q1, exMORE-G-Q2, and exMORE-G-Q3 subsets. The only difference in the HDF5 structure between the MORE-Q and MORE-QX subsets is that we added 'DM' keys after the 'REC' and 'OM' keys as indicators for the low-energy conformers taken from the dimer subset exMORE-G-Q2. 
 
+## Usage
+
 - [ ] MORE-Q
 In this folder, one could find one jupyter-notebook file __MORE-Q_user_guide.ipynb__ and one python script __createDF.py__. __MORE-Q-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __createDF.py__ and reproduction of the technical validation figures. 
 
@@ -20,16 +22,12 @@ One can download MORE-Q **HDF5 files** from ZENODO under the link: https://zenod
 
 - [ ] MORE-QX
 In this folder, one could find one jupyter-notebook file __MORE-ML_user_guide.ipynb__ and one python script __ex_createDF.py__. 
-__MORE-QX-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __createDF.py__ and reproduction of the technical validation figures. 
+__MORE-QX-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __createDF.py__ and the usage of __MORE-ML__ framework including regression and explanation
 
-For **MORE-QX** usage, an ex_createDF.py is created to extract dataframes from HDF5 files for MORE-QX from ZENODO (link below.) 
+One can download MORE-QX **HDF5 files** from ZENODO under the link: https://zenodo.org/records/14720508
 
-One can download MORE-QX HDF5 files from ZENODO under the link: https://zenodo.org/records/14720508
-
-We also provide a user guide to use MORE-ML for binding feature prediction and model explanation.
-
-
-## MORE-QX dataset files
+- [ ] Example for a new system
+We also provide a brief example how to obtain the input features for a new BOV-receptor-surface complex system, which could be used in the MORE-ML framework to predict binding features.
 
 ## Citation
 If you use parts of the MORE-Q, MORE-QX data, and MORE-ML framework please cite
@@ -42,12 +40,5 @@ https://doi.org/10.1038/s41597-025-04616-6
 
 Manuscript for MORE-QX and MORE-ML coming soon.
 
-
-## Dependencies
-- [ ] numpy 1.26.0
-- [ ] pandas 2.1.4
-- [ ] joblib 1.4.2
-- [ ] matplotlib 3.6.2
-- [ ] tqdm 4.66.2
 
 
