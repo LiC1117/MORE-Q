@@ -8,7 +8,7 @@
 
 
 ## About
-MORE-Q(X) dataset and MORE-ML aim at providing a fundamental understanding of the interaction of mucin-derived olfactorial receptor and body odor volatilomes (BOVs) and hence the design principles towards sensing performance enhancement using quantum mechanics and machine learning.
+**MORE-Q(X)** dataset **and MORE-ML** aim at providing a fundamental understanding of the interaction of mucin-derived olfactorial receptor and body odor volatilomes (BOVs) and hence the design principles towards sensing performance enhancement using quantum mechanics and machine learning.
 
 This github repository aims at providing user guide for the **MORE-Q, Dataset for molecular olfactorial receptor engineering by quantum mechanics**. 
 
