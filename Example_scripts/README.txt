@@ -8,7 +8,7 @@ Step2 do ORCA and for each system
 
 orca_run.sh 
 
-Step3 extract propeties into json
+Step3 extract properties into json
 
 get_eint_dm_orca.sh
 get_json_sg_orca.py
