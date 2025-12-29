@@ -14,19 +14,19 @@ To approximate the thermodynamic ensemble and the conformer effects, we expanded
 
 ## Usage
 
-- [ ] MORE-Q
+- [ ] **MORE-Q**
 
 In this folder, one could find one jupyter-notebook file __MORE-Q_user_guide.ipynb__ and one python script __createDF.py__. __MORE-Q-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __createDF.py__ and reproduction of the technical validation figures. One can download MORE-Q **HDF5 files** from ZENODO under the link: https://zenodo.org/records/13741197
 
 
 
-- [ ] MORE-QX
+- [ ] **MORE-QX**
       
 In this folder, one could find one jupyter-notebook file __MORE-ML_user_guide.ipynb__ and one python script __ex_createDF.py__. 
 __MORE-QX-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __ex_createDF.py__ and the usage of __MORE-ML__ framework including regression and explanation. One can download MORE-QX **HDF5 files** from ZENODO under the link: https://zenodo.org/records/14720508
 
 
-- [ ] Example for a new system
+- [ ] **Example for a new system**
 
 We also provide a brief example how to obtain the input features for a new BOV-receptor-surface complex system, which could be used in the MORE-ML framework to predict binding features.
 
