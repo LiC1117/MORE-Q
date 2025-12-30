@@ -20,10 +20,10 @@ In this folder, one could find one jupyter-notebook file __MORE-Q_user_guide.ipy
 
 
 
-- [ ] **MORE-QX**
+- [ ] **MORE-ML**
       
 In this folder, one could find one jupyter-notebook file __MORE-ML_user_guide.ipynb__ and one python script __ex_createDF.py__. 
-__MORE-QX-user-guide__ contains step-by-step codes for data extraction from HDF5 files using __ex_createDF.py__ and the usage of __MORE-ML__ framework including regression and explanation. One can download MORE-QX **HDF5 files** from ZENODO under the link: https://zenodo.org/records/14720508
+__MORE-ML-user-guide__ contains step-by-step codes for data extraction from **MOER-QX** HDF5 files using __ex_createDF.py__ and the usage of __MORE-ML__ framework including regression and explanation. One can download MORE-QX **HDF5 files** from ZENODO under the link: https://zenodo.org/records/14720508
 
 
 - [ ] **Example for a new system**
