@@ -1,4 +1,4 @@
-A brief workflow of the user guide for MORE-ML machine learning framework:
+Workflow for applying the MORE-ML framework to binding feature prediction and explanation:
 
 1. Load data files and convert into dataframes
 
